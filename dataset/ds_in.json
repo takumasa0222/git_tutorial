@@ -1,0 +1,16 @@
+{
+	"name": "ds_in",
+	"properties": {
+		"linkedServiceName": {
+			"referenceName": "storageLinkedService001",
+			"type": "LinkedServiceReference"
+		},
+		"annotations": [],
+		"type": "AzureBlob",
+		"typeProperties": {
+			"fileName": "exp.txt",
+			"folderPath": "test/ABC/analysis"
+		}
+	},
+	"type": "Microsoft.DataFactory/factories/datasets"
+}
