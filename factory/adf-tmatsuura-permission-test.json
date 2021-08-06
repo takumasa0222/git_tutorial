@@ -1,0 +1,9 @@
+{
+	"name": "adf-tmatsuura-permission-test",
+	"location": "japaneast",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "26122417-561d-456f-a96a-fc31a91981e3",
+		"tenantId": "a0a58ec7-09e8-41f9-ae5a-0d67d1ccabc5"
+	}
+}
